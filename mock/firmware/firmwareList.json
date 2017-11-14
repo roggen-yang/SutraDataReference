@@ -1,0 +1,17 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Firmwares": [
+    {
+      "ID": "3bfe3ff6-d419-5294-a258-7408398164b2",
+      "Type": "BMC",
+      "Version": "0.64.86.255",
+      "Updateable": true,
+      "Updating": false,
+      "Device": {
+        "ID": "872b8831-3708-5612-a013-6e5318670d77",
+        "Alias": "aaa"
+      }
+    }
+  ]
+}

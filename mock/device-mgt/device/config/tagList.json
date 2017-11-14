@@ -1,0 +1,28 @@
+{
+  "Result": 0,
+  "Message": "",
+  "PageInfo": {
+    "Total": 3,
+    "PageSize": 0,
+    "Page": 0
+  },
+  "Tags": [
+    {
+      "ID": "5f7a478b-44bd-47ae-a483-7b61b873bf82",
+      "Alias": "test",
+      "Color": "128c6f"
+    },
+    {
+      "ID": "64e7154f-bad2-49f2-a3ad-8e747f1fb720",
+      "Alias": "111111",
+      "Color": "1a4a12",
+      "Desc": "11111111111111111111111111111111"
+    },
+    {
+      "ID": "af29a5f3-9a99-4107-b6cf-ff9ec9879f32",
+      "Alias": "5t55",
+      "Color": "ab2323",
+      "Desc": "555"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Inventory": {
+    "Systems": [
+      {
+        "SystemInfo": {
+          "PartNumber": "R1048-G0001-01",
+          "Manufacturer": "CELESTICA Inc.",
+          "Model": "Ultron Mainboard",
+          "SerialNumber": "G0001CLS004UT6B2013",
+          "HostName": "",
+          "UUID": "6b767120-bfde-1000-03e1-885501b80c78",
+          "BIOSVer": 6,
+          "SKU": "Not Specified",
+          "AssetTag": "Not Specified",
+          "State": "Enabled",
+          "Health": "OK",
+          "PowerState": "On"
+        },
+        "BMCInfo": {
+          "UUID": "6b7788ee-bfde-1000-03e1-885501b80c78",
+          "FwVer": "0.64.86.255",
+          "State": "Enabled",
+          "Health": "OK"
+        },
+        "Processors": [
+          {
+            "Socket": "CPU #000",
+            "IdRegs": "E4 06 03 00 FF FB AB 0F",
+            "EffectiveFamily": "0",
+            "EffectiveModel": "0",
+            "Step": "0",
+            "MaxSpeedMhz": 30000,
+            "TotalCores": 1,
+            "TotalThreads": 0,
+            "Model": "Intel(R) Xeon(R) CPU E5-4610 v2 @ 2.30GHz",
+            "Manufacturer": "GenuineIntel"
+          },
+          {
+            "Socket": "CPU #001",
+            "IdRegs": "E4 06 00 00 FF FB AB 0F",
+            "EffectiveFamily": "0",
+            "EffectiveModel": "0",
+            "Step": "0",
+            "MaxSpeedMhz": 30000,
+            "TotalCores": 1,
+            "TotalThreads": 0,
+            "Model": "Intel(R) Xeon(R) CPU E5-4610 v2 @ 2.30GHz",
+            "Manufacturer": "GenuineIntel"
+          }
+        ],
+        "Dimms": [
+          {
+            "Type": "dimm",
+            "Manufacturer": "",
+            "DeviceType": "Unknown",
+            "Media": "DRAM",
+            "CapacityMiB": 1953,
+            "DataWidthBits": 32,
+            "BusWidthBits": 32,
+            "DeviceLocator": ""
+          }
+        ]
+      }
+    ],
+    "Chassis": [
+      {
+        "ChassisInfo": {
+          "Type": "chassis",
+          "PartNumber": "S2121-S24",
+          "Manufacturer": "CELESTICA Inc.",
+          "Model": "S2121",
+          "SerialNumber": "F3016CLS001UTYMD003",
+          "SKU": "",
+          "AssetTag": "No Asset Tag",
+          "State": "Enabled",
+          "Health": "OK"
+        },
+        "BMCInfo": null
+      }
+    ],
+    "PSUs": [
+      {
+        "Type": "AC",
+        "Model": "PSU",
+        "SerialNumber": "1345123123",
+        "PartNumber": "US200293021",
+        "PowerCapacityWatts": 1000
+      },
+      {
+        "Type": "AC",
+        "Model": "PSU",
+        "SerialNumber": "231234452345",
+        "PartNumber": "US200293022",
+        "PowerCapacityWatts": 1000
+      }
+    ]
+  }
+}

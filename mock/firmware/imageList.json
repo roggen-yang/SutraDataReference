@@ -1,0 +1,20 @@
+{
+  "Result": 0,
+  "Message": "",
+  "PageInfo": {
+    "Total": 1,
+    "PageSize": 0,
+    "Page": 0
+  },
+  "Images": [
+    {
+      "ID": "12345",
+      "ProductName": "Ultron111",
+      "Type": "BMC",
+      "Alias": "奥创BMC111",
+      "Version": "1.0.1",
+      "FsProto": "HTTP",
+      "URL": "http://127.0.0.1/1.dw"
+    }
+  ]
+}

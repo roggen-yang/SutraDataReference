@@ -1,0 +1,18 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Statics": {
+    "Total": 1,
+    "State": {
+      "Enabled": 1,
+      "Disabled": 0,
+      "StandbyOffline": 0,
+      "Starting": 0
+    },
+    "Health": {
+      "OK": 1,
+      "Warning": 0,
+      "Critical": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Statics": {
+    "Total": 64,
+    "State": {
+      "Enabled": 64,
+      "Disabled": 0,
+      "StandbyOffline": 0,
+      "Starting": 0
+    },
+    "Health": {
+      "OK": 64,
+      "Warning": 0,
+      "Critical": 0
+    },
+    "Type": {
+      "Fan": 6,
+      "Temperature": 46,
+      "Voltage": 12
+    }
+  }
+}

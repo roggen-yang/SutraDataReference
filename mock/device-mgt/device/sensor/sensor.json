@@ -1,0 +1,17 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Sensor": {
+    "State": "Enabled",
+    "Health": "OK",
+    "Type": "Fan",
+    "Name": "FAN2_TACH",
+    "Reading": 5600,
+    "Unit": "RPM",
+    "Number": 1,
+    "PhysicalContext": "fan_cooling",
+    "ReadingMax": 25500,
+    "ReadingMin": 0,
+    "ThresLC": 1000
+  }
+}

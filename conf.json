@@ -1,0 +1,9 @@
+{
+    "http": "http://127.0.0.1:8080",
+    "serviceIP": "10.204.30.202",
+    "type": "fan",
+    "sensor": "1",
+    "time_start": "",
+    "time_end": "",
+    "device": "872b8831-3708-5612-a013-6e5318670d77"
+}

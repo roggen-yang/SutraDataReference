@@ -1,0 +1,24 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Statics": {
+    "Total": 67659,
+    "Severity": {
+      "OK": 67659
+    },
+    "EntryCode": [
+      {
+        "Code": "Assert",
+        "Count": 8072
+      },
+      {
+        "Code": "Lower Non-critical - going low",
+        "Count": 26290
+      },
+      {
+        "Code": "Lower Critical - going low",
+        "Count": 33297
+      }
+    ]
+  }
+}

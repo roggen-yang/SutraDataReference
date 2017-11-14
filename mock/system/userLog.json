@@ -1,0 +1,2291 @@
+{
+  "Result": 0,
+  "Message": "",
+  "PageInfo": {
+    "Total": 456,
+    "PageSize": 0,
+    "Page": 0
+  },
+  "UserLogs": [
+    {
+      "Desc": "Add monitor template [type:temperature, alias:test001, sensors:[{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":4},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":5},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":6},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":7},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":8},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":9}]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:56:42.459545+00:00"
+    },
+    {
+      "Desc": "Delete monitor template [id:25a4789c-75ba-4e0b-85da-4067aa3ed2ac] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:56:28.510152+00:00"
+    },
+    {
+      "Desc": "Delete monitor template [id:de7b4d78-ab8c-4e64-9901-0aeb5304768b] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:56:27.524881+00:00"
+    },
+    {
+      "Desc": "Delete monitor template [id:a247c294-dc68-4c2e-bd07-14c8e77347e4] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:56:24.574766+00:00"
+    },
+    {
+      "Desc": "Delete monitor template [id:ba91846b-a60b-44dd-81d2-bb75020bc934] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:55:59.492213+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:50020] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:55:44.357683+00:00"
+    },
+    {
+      "Desc": "Add monitor template [type:fan, alias:test0031, sensors:[{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":0},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":1},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":2},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":3}]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:44:17.994748+00:00"
+    },
+    {
+      "Desc": "Add monitor template [type:fan, alias:test003, sensors:[{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":0},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":1},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":2},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":3}]] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:43:56.849069+00:00"
+    },
+    {
+      "Desc": "Add monitor template [type:fan, alias:test003, sensors:[{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":0},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":1},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":2},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":3}]] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:43:39.447495+00:00"
+    },
+    {
+      "Desc": "Add monitor template [type:fan, alias:test003, sensors:[]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T08:43:33.472324+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:aaa, type:Server, service:10.204.30.202, tags:[{\"ID\":\"af29a5f3-9a99-4107-b6cf-ff9ec9879f32\"},{\"ID\":\"64e7154f-bad2-49f2-a3ad-8e747f1fb720\"}]] sucessfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:24:07.656966+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612, alias:aaa, type:Server, service:10.204.30.202, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:22:33.90659+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:aaa, type:Server, service:10.204.30.202, tags:[{\"ID\":\"af29a5f3-9a99-4107-b6cf-ff9ec9879f32\"},{\"ID\":\"64e7154f-bad2-49f2-a3ad-8e747f1fb720\"}]] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:22:15.216251+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:aaa, type:Server, service:10.204.30.201, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:21:35.855528+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:aaa, type:Server, service:10.204.123.22, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:17:03.589203+00:00"
+    },
+    {
+      "Desc": "Add device [id:abc, alias:aaa, type:Server, service:10.204.123.22, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:15:48.010761+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:aaa, type:Server, service:10.204.123.22, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:14:52.214735+00:00"
+    },
+    {
+      "Desc": "Add device [id:server123122, alias:872b8831-3708-5612-a013-6e5318670d77, type:Server, service:10.204.123.22, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T08:14:22.653292+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:58349] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T06:33:17.417834+00:00"
+    },
+    {
+      "Desc": "Add monitor template [type:temperature, alias:test002, sensors:[{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":10},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":11},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":12},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":13},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":14},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":15},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":16},{\"Device\":\"872b8831-3708-5612-a013-6e5318670d77\",\"Sensor\":17}]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T06:32:45.867704+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:63220] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T06:13:53.457696+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:65106] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T06:10:48.727877+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:62832] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T03:47:36.552065+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:50791] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T02:51:26.962142+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:, keepLogin:false, from:[::1]:50791] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-13T02:51:17.393083+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:52298] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-13T02:03:05.221729+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:56743] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-10T02:50:34.9512+00:00"
+    },
+    {
+      "Desc": "Confirm alert [id:d908d6ee-6980-512f-805d-d1b6cf383635] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-09T08:33:36.932897+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:58640] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-09T08:14:30.114825+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:, keepLogin:false, from:[::1]:58640] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-09T08:14:21.438099+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:, keepLogin:false, from:[::1]:58640] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-09T08:14:17.525012+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:60393] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-09T06:20:50.597786+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:64737] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-09T03:40:31.356501+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:62880] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-09T03:01:00.469956+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:55281] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-09T03:00:58.206025+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"10.204.123.1\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"password\"}] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-09T01:51:42.12511+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"127.0.0.1\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-09T01:19:11.804946+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_5, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T08:55:13.971271+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_5, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T08:52:39.011636+00:00"
+    },
+    {
+      "Desc": "Add device [id:83b44f77-c14b-5a5a-bfde-b3369f71bb28, alias:Switch_10.204.30.251_1, type:Switch, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T08:50:22.354198+00:00"
+    },
+    {
+      "Desc": "Add device [id:83b44f77-c14b-5a5a-bfde-b3369f71bb28, alias:Switch_10.204.30.251_1, type:Switch, service:10.204.30.251, tags:null] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T08:47:46.812014+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:58174] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T06:08:04.824793+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T02:57:47.503704+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_4, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T02:57:19.426651+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:65290] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T02:56:56.342631+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_4, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T02:53:43.803447+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:64626] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-08T02:51:23.72928+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:10.204.123.104:62883] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T10:37:25.168313+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:56638] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T07:59:14.912237+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:60517] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T05:50:48.457064+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:65513] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T03:34:45.297036+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:65513] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T03:32:40.455636+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:63161] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T03:15:24.869019+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:55056] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-07T02:39:24.186765+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:50195] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T10:03:32.677098+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T10:00:12.673793+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:65403] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T09:30:30.659702+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:51282] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T09:25:34.998183+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:56470] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T08:34:24.297363+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:56470] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T08:28:59.100147+00:00"
+    },
+    {
+      "Desc": "Modify device tag [id:38554a16-46a7-4e35-82d7-f90d1d24053c, alias:机房, color:000000, desc:33333a] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-06T07:30:20.770598+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:55234] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T07:20:43.068681+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-06T06:55:43.504548+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_3, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:50:50.930123+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_3, type:Server, service:10.204.30.202, tags:null] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:35:35.982005+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_3, type:Server, service:10.204.30.202, tags:null] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:35:31.050528+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_3, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:35:25.00805+00:00"
+    },
+    {
+      "Desc": "Add device [id:, alias:, type:, service:10.204.30.201, tags:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:17:19.184684+00:00"
+    },
+    {
+      "Desc": "Add device [id:, alias:, type:, service:10.204.30.201, tags:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:17:13.960502+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:56844] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T06:15:43.880983+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T03:34:42.904499+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T03:34:36.332771+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Ultron_10.204.30.202_3, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T03:12:52.197433+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:53016] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T02:49:09.508813+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:61371] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-06T02:06:51.57075+00:00"
+    },
+    {
+      "Desc": "Confirm alert [id:d752203a-c52b-5a86-bf05-d070263bab9c] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T09:27:57.496277+00:00"
+    },
+    {
+      "Desc": "Confirm alert [id:d2d6a7f2-58f2-5f43-aba6-06de61ced880] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T09:27:51.193986+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:60802] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T08:46:03.6435+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:23423] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T08:00:33.587216+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:234234324324] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T08:00:20.637425+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:234234324324] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:57:43.623984+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:new66666666] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:56:36.006463+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:real] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:55:26.291492+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:TASTJJJJ] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:53:41.215643+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:532453454354555] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:51:12.016438+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:566666] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:47:32.196657+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:555555] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:44:32.061241+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:44123123] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:38:55.336765+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:asdasd] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:34:39.489828+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:TEA] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:25:30.44262+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:TEA] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:25:23.720159+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:test1] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:23:18.381654+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:test1] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:23:09.31564+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:test] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:19:35.166538+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:test] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T07:19:29.952078+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T06:56:52.559099+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T06:49:12.820648+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T06:43:43.643532+00:00"
+    },
+    {
+      "Desc": "Add device [id:82312d72-1b2b-5e07-80dc-325de65904e3, alias:Loki_10.204.30.251_1, type:Server, service:10.204.30.251, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T06:43:35.927786+00:00"
+    },
+    {
+      "Desc": "Add device [id:eb5835f8-2ac4-5539-bdcb-ba3f47626791, alias:Server_10.204.30.251_1, type:, service:10.204.30.251, tags:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T06:00:56.586099+00:00"
+    },
+    {
+      "Desc": "Add firmware template [alias:test002, image:12345, firmwares:[\"3bfe3ff6-d419-5294-a258-7408398164b2\"]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T03:15:51.090531+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:54084] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-03T02:59:49.276004+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:56616] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:23:45.178147+00:00"
+    },
+    {
+      "Desc": "User logout",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:23:26.804019+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:56616] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:23:08.016306+00:00"
+    },
+    {
+      "Desc": "User logout",
+      "User": "UNKNOWN",
+      "Time": "2017-11-02T09:22:10.793979+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:59301] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:17:36.953483+00:00"
+    },
+    {
+      "Desc": "User logout",
+      "User": "UNKNOWN",
+      "Time": "2017-11-02T09:16:29.778571+00:00"
+    },
+    {
+      "Desc": "User logout",
+      "User": "UNKNOWN",
+      "Time": "2017-11-02T09:16:01.579375+00:00"
+    },
+    {
+      "Desc": "User logout",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:15:55.160366+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:发发] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:14:35.781185+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:14:10.581308+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:14:07.503539+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:13:57.701386+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T09:13:43.397433+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:99018581-2c30-450d-b608-7d65a2357832] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T08:16:52.195753+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:85c4939f-64ae-4957-9706-8e41d0ad1c36] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T08:16:48.401381+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:696cb812-9dd0-4907-8b85-e087bd6ec172] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T08:16:44.086164+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:637e90b2-222e-4958-9373-637536e42b3d] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T08:16:30.175368+00:00"
+    },
+    {
+      "Desc": "Modify firmware template [id:test001111, alias:12345, image:[\"3bfe3ff6-d419-5294-a258-7408398164b2\"], firmwares:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T08:11:31.827868+00:00"
+    },
+    {
+      "Desc": "Add firmware template [alias:test001, image:12345, firmwares:[\"3bfe3ff6-d419-5294-a258-7408398164b2\"]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T07:26:48.505505+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:59787] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T06:53:17.620758+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:, keepLogin:false, from:127.0.0.1:59787] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-02T06:53:09.926614+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:49270] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T02:44:28.7346+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:[::1]:60649] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-02T02:40:15.357683+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:rrr111] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T09:43:15.210625+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:rrr] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T09:39:01.139523+00:00"
+    },
+    {
+      "Desc": "Create firmware update task [alias:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T09:38:49.782239+00:00"
+    },
+    {
+      "Desc": "Modify device [id:872b8831-3708-5612-a013-6e5318670d77, alias:, tags:[{\"ID\":\"5f7a478b-44bd-47ae-a483-7b61b873bf82\"},{\"ID\":\"64e7154f-bad2-49f2-a3ad-8e747f1fb720\"}]] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T09:28:45.256954+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:52592] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T07:41:03.338814+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:, keepLogin:false, from:127.0.0.1:52592] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T07:40:44.892585+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T07:40:29.818375+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::test001",
+      "Time": "2017-11-01T07:40:25.325393+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:127.0.0.1:52583] successfully",
+      "User": "Admin::test001",
+      "Time": "2017-11-01T07:40:07.969745+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T07:39:57.596766+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:false, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T07:39:53.511054+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:false, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T07:39:48.519744+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed%!(EXTRA string=127.0.0.1:63068)",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T06:24:07.007879+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:52528] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T06:15:52.941975+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T06:15:46.024386+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T06:15:32.424784+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T06:15:16.970531+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:127.0.0.1:52092] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T06:14:50.888228+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T06:14:42.126412+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T06:07:19.815285+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T06:07:06.700586+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T06:01:35.283853+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T05:47:34.275808+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T05:47:21.585389+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T04:46:39.356804+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T04:46:32.487122+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:41:06.66352+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:40:39.965807+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T03:40:22.886339+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T03:40:13.116851+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:39:57.021171+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T03:39:43.098583+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:39:34.558917+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:39:21.444215+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:39:11.538642+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:38:28.162862+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:37:22.507696+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:35:56.657609+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:34:58.279645+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:32:52.143766+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:32:11.759344+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T03:31:54.038583+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:31:35.078988+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:29:49.389214+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T03:28:15.760713+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T03:27:43.118606+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T02:58:36.331461+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T02:55:25.699252+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-11-01T02:43:20.981562+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-11-01T02:42:24.305099+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:54:40.816342+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T10:53:40.224928+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:52:29.419068+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:46:35.881322+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:46:07.715113+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:45:13.499053+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:44:47.274995+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:43:33.021555+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T10:38:11.623342+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:58:02.828663+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:54:48.030439+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:54:39.720358+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:49:31.599996+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:43:15.760918+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:43:07.920703+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:30:03.74695+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:29:49.370344+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:29:32.007011+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:28:37.565703+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:28:05.832601+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:27:03.825358+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:25:54.726827+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:25:47.118772+00:00"
+    },
+    {
+      "Desc": "Modify settings user [userSetting:{\"Avatar\":null,\"Email\":\"admin@qq11.com\"}] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:25:29.308636+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:25:25.303257+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:25:02.427029+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:24:57.317631+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:22:55.593338+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:22:31.731373+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:22:25.748396+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:21:40.99606+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:21:26.422361+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:21:24.323965+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:21:15.984418+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:21:05.004184+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:16:44.807135+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:16:31.777415+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::test001",
+      "Time": "2017-10-31T09:16:13.365799+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T09:16:04.872253+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:false, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:15:57.774878+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:%!t(\u003cnil\u003e), enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:15:47.67755+00:00"
+    },
+    {
+      "Desc": "Modify user [id:, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:%!t(\u003cnil\u003e), enabled:%!s(\u003cnil\u003e)]] failed",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:14:04.718295+00:00"
+    },
+    {
+      "Desc": "Delete user [id:078586d3-c613-45f3-b463-4294ae8d4411] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T09:01:31.815618+00:00"
+    },
+    {
+      "Desc": "Delete user [id:06716b97-c88d-4228-a417-f2eb7d591e86] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:58:44.624604+00:00"
+    },
+    {
+      "Desc": "Delete user [id:04592316-8de8-4c2e-867e-eb02fa03618d] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:58:32.208464+00:00"
+    },
+    {
+      "Desc": "Delete user [id:03d6736a-0459-46bc-a5d6-350abfc01bd1] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:58:25.018329+00:00"
+    },
+    {
+      "Desc": "Delete user [id:007da6e5-4d60-44fe-aba7-61c073a9b276] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:58:17.466645+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:54:37.499767+00:00"
+    },
+    {
+      "Desc": "Modify user [id:007da6e5-4d60-44fe-aba7-61c073a9b276, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:54:16.737499+00:00"
+    },
+    {
+      "Desc": "Modify user [id:007da6e5-4d60-44fe-aba7-61c073a9b276, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:54:07.217949+00:00"
+    },
+    {
+      "Desc": "Modify user [id:007da6e5-4d60-44fe-aba7-61c073a9b276, email:%!s(\u003cnil\u003e), group:%!s(\u003cnil\u003e), lock:true, enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:54:02.491263+00:00"
+    },
+    {
+      "Desc": "Add firmware template [alias:11111, image:22222, firmwares:null] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:52:56.357501+00:00"
+    },
+    {
+      "Desc": "Modify firmware template [id:11111, alias:22222, image:[\"3242343444\",\"3445666666\"], firmwares:%!s(MISSING)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:52:31.081851+00:00"
+    },
+    {
+      "Desc": "Add firmware template [alias:模板2, image:23453452, firmwares:[\"3242343444\",\"3445666666\"]] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:51:25.049278+00:00"
+    },
+    {
+      "Desc": "Add firmware template [alias:模板2, image:23453452, firmwares:[\"3242343444\",\"3445666666\"]] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:50:58.729948+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:bf62dfe2-6986-4e1a-8532-86f8651dec90] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:50:40.089944+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:1ddfea76-1707-489a-bed0-eeff70c6ad34] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:50:23.737484+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:0182fac7-a2a9-4c07-a771-10d848278be3] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:50:03.247688+00:00"
+    },
+    {
+      "Desc": "Delete firmware template [id:0182fac7-a2a9-4c07-a771-10d848278be3] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:50:03.146182+00:00"
+    },
+    {
+      "Desc": "Modify user [id:0798d621-b3ec-11e7-b7a0-28d2441dd50f, email:%!s(\u003cnil\u003e), group:Admin, lock:%!t(\u003cnil\u003e), enabled:%!s(\u003cnil\u003e)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:49:54.271999+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T08:13:25.654979+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:13:17.936983+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T08:13:03.827889+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:12:52.896567+00:00"
+    },
+    {
+      "Desc": "Modify user password successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T08:12:48.138361+00:00"
+    },
+    {
+      "Desc": "Modify user password successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T08:12:37.084607+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T08:12:22.100253+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T08:12:13.15574+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T07:39:15.823347+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T07:39:09.478125+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"10.204.123.1\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"123456\"}] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T07:30:20.332525+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"127.0.0.1\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T07:27:59.374151+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Server_10.204.30.202_1, type:, service:10.204.30.202, tags:] failed",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T06:30:56.793887+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Server_10.204.30.202_1, type:, service:10.204.30.202, tags:null] sucessfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T06:30:51.657471+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"127.0.0.1\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T06:13:07.912914+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.12\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"123456\"}] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T06:11:29.926359+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T06:01:06.803573+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.12\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"123456\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T05:58:55.737051+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"123456\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T05:56:24.485534+00:00"
+    },
+    {
+      "Desc": "Modify device [id:1234567, alias:, tags:[{\"ID\":\"5f7a478b-44bd-47ae-a483-7b61b873bf82\"},{\"ID\":\"af29a5f3-9a99-4107-b6cf-ff9ec9879f32\"}]] successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T03:42:10.287087+00:00"
+    },
+    {
+      "Desc": "Add device tag [alias:test, color:128c6f, desc:] successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T03:41:41.140072+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:false, from:%!s(MISSING)] successfully",
+      "User": "User::test001",
+      "Time": "2017-10-31T03:40:48.243341+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T03:40:40.32218+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T03:30:57.376856+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.92\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"123456\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:28:11.954965+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"1111111111111\",\"Port\":222222,\"UserName\":\"333333\",\"Password\":\"444444\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:27:46.624968+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"1111111111111\",\"Port\":222222,\"UserName\":\"333333\",\"Password\":\"444444\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:27:34.308121+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"1111111111111\",\"Port\":222222,\"UserName\":\"333333\",\"Password\":\"444444\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:26:17.442548+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:25:16.14057+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:24:22.145854+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:22:52.334881+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:22:24.994249+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:22:12.009067+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:20:27.757237+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:19:21.233008+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:13:35.578763+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:12:37.691794+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:09:49.030181+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:08:10.679717+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T03:06:13.118197+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T03:06:06.57056+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.11\"}, smtp:{\"Addr\":\"\",\"Port\":0,\"UserName\":\"\",\"Password\":\"\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:04:55.216725+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":2222,\"UserName\":\"123456\",\"Password\":\"123456\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T03:03:15.865015+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-31T03:02:13.567707+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":2222,\"UserName\":\"123456\",\"Password\":\"123456\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T02:59:57.514614+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":2222,\"UserName\":\"123456\",\"Password\":\"123456\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T02:59:41.087863+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":2222,\"UserName\":\"123456\",\"Password\":\"123456\"}] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-31T02:59:41.020702+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-31T02:38:13.25844+00:00"
+    },
+    {
+      "Desc": "Add device [id:872b8831-3708-5612-a013-6e5318670d77, alias:Server_10.204.30.202_1, type:Server, service:10.204.30.202, tags:null] sucessfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-30T10:53:04.275734+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "Admin::admin",
+      "Time": "2017-10-30T10:52:03.552091+00:00"
+    },
+    {
+      "Desc": "User login [user:test002, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:59:12.319489+00:00"
+    },
+    {
+      "Desc": "User login [user:test002, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:57:39.773881+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:57:31.857528+00:00"
+    },
+    {
+      "Desc": "Add user [userName:test002, email:test002@qq.com, group:User, password:123456, avatar:] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:57:12.164655+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:56:37.63773+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:56:22.545458+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:51:19.612589+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:1123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "UNKNOWN",
+      "Time": "2017-10-30T09:51:06.14098+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:45:07.18951+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:44:37.293716+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:44:29.539185+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:44:23.828631+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:43:50.148326+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:43:46.378659+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:43:42.091522+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:42:28.993411+00:00"
+    },
+    {
+      "Desc": "User login [user:test1234, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:24:48.893848+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:24:32.058592+00:00"
+    },
+    {
+      "Desc": "Add user [userName:test1234, email:test@qq.com, group:User, password:123456, avatar:] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:24:20.085547+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:23:28.365175+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:pass, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:23:23.055513+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:21:59.106495+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:] failed",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:21:38.032475+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:21:23.135404+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:21:22.492976+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:20:46.264705+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:password, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:18:52.337145+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:18:24.804477+00:00"
+    },
+    {
+      "Desc": "User login [user:test, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T09:18:11.524768+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:52:01.760499+00:00"
+    },
+    {
+      "Desc": "UL_POST_SYSTEM_LOGOUT_SUCCESS",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:42:38.11463+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:123456, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:11:34.141657+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:10:44.834742+00:00"
+    },
+    {
+      "Desc": "User login [user:test001, lang:, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:09:49.18099+00:00"
+    },
+    {
+      "Desc": "Add user [userName:test001, email:test001@qq.com, group:Admin, password:123456, avatar:] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:09:32.590748+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:08:38.33063+00:00"
+    },
+    {
+      "Desc": "User login [user:admin, lang:, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:08:33.130558+00:00"
+    },
+    {
+      "Desc": "User login [user:, lang:, keepLogin:%!t(string=), from:%!s(bool=false)] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:08:24.98178+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.89\"}, smtp:{\"Addr\":\"10.204.123.11\",\"Port\":1111,\"UserName\":\"admin\",\"Password\":\"admin\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:06:48.938858+00:00"
+    },
+    {
+      "Desc": "Modify settings system [time:{\"NTP\":\"10.204.123.92\"}, smtp:{\"Addr\":\"10.204.123.2\",\"Port\":1234,\"UserName\":\"admin\",\"Password\":\"123456\"}] successfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-30T06:03:55.748216+00:00"
+    },
+    {
+      "Desc": "Add device [id:Server_10.204.30.202_1, alias:Server, type:10.204.30.202, service:null, tags:%!s(MISSING)] sucessfully",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-27T03:23:04.558185+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:20:03.628349+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:58.877172+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:54.194001+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:49.463521+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:44.569195+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:41.29482+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:36.404291+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T07:19:32.053286+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-12T03:38:24.330603+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:47:45.630576+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:46:18.442573+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:44:46.92608+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:43:59.749645+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:41:58.909636+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:41:17.487223+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:40:58.940024+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:38:15.867802+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:37:13.076528+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:34:46.028711+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:31:24.16615+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:30:59.423819+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:30:51.644681+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:29:32.572877+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:27:34.288048+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:25:51.013181+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:25:17.386286+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:24:32.70766+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:23:58.270537+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:13:36.208068+00:00"
+    },
+    {
+      "Desc": "ID_TEST%!(EXTRA string=a, string=b)",
+      "User": "TODO-USERNAME",
+      "Time": "2017-10-11T10:04:36.683122+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.995943+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.990937+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.985934+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.97993+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.973927+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.967925+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.961912+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.956908+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.950904+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.944896+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.939893+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.933892+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.927886+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.921882+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.916879+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.910875+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.903869+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.896866+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.890861+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.884857+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.878855+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.873851+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.867847+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.861835+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.856332+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.848328+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.841815+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.836811+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.829807+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.823804+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.810794+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.804791+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.799786+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.793782+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.787779+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.782775+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.776772+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.769766+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.762763+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.757255+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.750751+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.74374+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.726729+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.720723+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.712718+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.704713+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.696707+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.689703+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.6827+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.675694+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.667687+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.661179+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.654175+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.647667+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.640653+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.632648+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.625644+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.619642+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.612638+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.60563+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.599626+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.591624+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.584616+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.577611+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.569609+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.561599+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.555092+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.548589+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.541573+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.534574+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.527566+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.521562+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.512555+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.506553+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.492545+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.48554+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.479533+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.472529+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.465529+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.458517+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.45151+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.444505+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.435495+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.426493+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.419487+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.409476+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.395468+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.379459+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.364447+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.356938+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.349433+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.341423+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.333418+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "admin",
+      "Time": "2017-10-10T09:38:16.323411+00:00"
+    },
+    {
+      "Desc": "UL_CREATE_DEVICE",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.314406+00:00"
+    },
+    {
+      "Desc": "UL_LOGIN_ERROR",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.300395+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testUser1",
+      "Time": "2017-10-10T09:38:16.289389+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "testSomebody",
+      "Time": "2017-10-10T09:38:16.27338+00:00"
+    },
+    {
+      "Desc": "UL_DELETE_TAG",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.266372+00:00"
+    },
+    {
+      "Desc": "UL_LOGOUT",
+      "User": "user",
+      "Time": "2017-10-10T09:38:16.048199+00:00"
+    }
+  ]
+}

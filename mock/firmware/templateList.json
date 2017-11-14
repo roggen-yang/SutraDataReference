@@ -1,0 +1,22 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Templates": [
+    {
+      "ID": "9412d8ce-7d93-4e0b-9b6d-64e926d85b74",
+      "Alias": "test002",
+      "Image": "12345",
+      "Firmwares": [
+        "3bfe3ff6-d419-5294-a258-7408398164b2"
+      ]
+    },
+    {
+      "ID": "f8ad9f11-f577-4168-a38e-60442616745f",
+      "Alias": "test001111",
+      "Image": "12345",
+      "Firmwares": [
+        "3bfe3ff6-d419-5294-a258-7408398164b2"
+      ]
+    }
+  ]
+}

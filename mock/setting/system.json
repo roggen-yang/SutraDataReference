@@ -1,0 +1,15 @@
+{
+  "Result": 0,
+  "Message": "",
+  "SystemSetting": {
+    "Time": {
+      "NTP": "127.0.0.1"
+    },
+    "SMTP": {
+      "Addr": "10.204.123.1",
+      "Port": 1234,
+      "UserName": "admin",
+      "Password": "password"
+    }
+  }
+}

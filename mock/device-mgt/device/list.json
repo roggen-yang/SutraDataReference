@@ -1,0 +1,49 @@
+{
+  "Result": 0,
+  "Message": "",
+  "Devices": [
+    {
+      "ID": "872b8831-3708-5612-a013-6e5318670d77",
+      "Alias": "aaa",
+      "Type": "Server",
+      "Model": "S2121",
+      "State": "Enabled",
+      "Health": "OK",
+      "TotalCores": 2,
+      "MemoryGB": 2,
+      "Picture": "/static/data/device/ultron/default.png",
+      "Picture3D": "/static/data/device/ultron/default.json",
+      "Summary": {
+        "BMC": {
+          "State": "Enabled",
+          "FwVer": "0.64.86.255"
+        },
+        "System": {
+          "Power": "On",
+          "OS": ""
+        },
+        "Sensor": {
+          "OK": 64,
+          "Warning": 0,
+          "Critical": 0
+        },
+        "SEL": {
+          "Capacity": 0,
+          "Count": 0
+        }
+      },
+      "Tags": [
+        {
+          "ID": "64e7154f-bad2-49f2-a3ad-8e747f1fb720",
+          "Alias": "111111",
+          "Color": "1a4a12"
+        },
+        {
+          "ID": "af29a5f3-9a99-4107-b6cf-ff9ec9879f32",
+          "Alias": "5t55",
+          "Color": "ab2323"
+        }
+      ]
+    }
+  ]
+}
